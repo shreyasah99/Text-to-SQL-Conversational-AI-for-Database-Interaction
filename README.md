@@ -20,7 +20,7 @@ ChatWithSQL is a conversational AI tool that allows users to interact with a SQL
 
 ## 🏗️ Tech Stack
 
-| Technology     | Purpose                                  |
+| Technology     | Purpose                                   |
 |----------------|-------------------------------------------|
 | 🐍 Python       | Core language                            |
 | 🧠 LangChain    | LLM orchestration                        |
@@ -32,14 +32,13 @@ ChatWithSQL is a conversational AI tool that allows users to interact with a SQL
 
 ## 📁 Project Structure
 
-```
 ├── app.py             # Main Streamlit interface
 ├── sqldata.py         # Database connection & query execution
 ├── student.db         # Sample SQLite database
 ├── .env               # (Optional) Your API keys (excluded from Git)
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project overview
-```
+
 
 
 
