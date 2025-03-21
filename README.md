@@ -42,13 +42,6 @@ Easily deploy on [Streamlit Cloud](https://streamlit.io/cloud).
 Set `app.py` as the **main file**, and configure `GROQ_API_KEY` under **Secrets**.
 
 
-## 🙌 Acknowledgements
-
-- [Groq](https://groq.com/)
-- [LangChain](https://www.langchain.com/)
-- [Streamlit](https://streamlit.io/)
-
-
 ## 👤 Author
 
 **Shreyas Hingmire**  
