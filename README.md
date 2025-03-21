@@ -1,13 +1,10 @@
 
-
-```markdown
 # 💬 ChatWithSQL: Text-to-SQL Conversational AI for Database Interaction
 
-🚀 [Live Demo](https://text-to-sql-conversational-ai-for-database-interaction-shreyas.streamlit.app/)
+### [Website](https://text-to-sql-conversational-ai-for-database-interaction-shreyas.streamlit.app)
 
 ChatWithSQL is a conversational AI tool that allows users to interact with a SQL database using **natural language**. Powered by **LLMs (Groq + LangChain)**, this app converts user questions into SQL queries, executes them, and returns human-readable answers — no SQL expertise required!
 
----
 
 ## 🔍 Features
 
@@ -16,7 +13,6 @@ ChatWithSQL is a conversational AI tool that allows users to interact with a SQL
 - 🗃️ **SQLite Integration**: Works seamlessly with a sample `student.db` database.
 - 🌐 **Streamlit UI**: Simple and interactive web interface.
 
----
 
 ## 🏗️ Tech Stack
 
@@ -40,14 +36,11 @@ ChatWithSQL is a conversational AI tool that allows users to interact with a SQL
 └── README.md          # Project overview
 
 
-
-
 ## 📌 Deployment
 
 Easily deploy on [Streamlit Cloud](https://streamlit.io/cloud).  
 Set `app.py` as the **main file**, and configure `GROQ_API_KEY` under **Secrets**.
 
----
 
 ## 🙌 Acknowledgements
 
@@ -55,7 +48,6 @@ Set `app.py` as the **main file**, and configure `GROQ_API_KEY` under **Secrets*
 - [LangChain](https://www.langchain.com/)
 - [Streamlit](https://streamlit.io/)
 
----
 
 ## 👤 Author
 
@@ -63,11 +55,10 @@ Set `app.py` as the **main file**, and configure `GROQ_API_KEY` under **Secrets*
 📎 [Live App](https://text-to-sql-conversational-ai-for-database-interaction-shreyas.streamlit.app/)  
 🌐 [LinkedIn](https://www.linkedin.com/in/shreyashingmire)
 
----
 
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
+
 
